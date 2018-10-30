@@ -1,0 +1,161 @@
+{
+  "project_info": {
+    "project_number": "484586384300",
+    "firebase_url": "https://greatmrpark-203300.firebaseio.com",
+    "project_id": "greatmrpark-203300",
+    "storage_bucket": "greatmrpark-203300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484586384300:android:cecfca1061c3b504",
+        "android_client_info": {
+          "package_name": "com.greatmrpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484586384300-8ci2rpb2so58dehocfa3gib0agqespac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greatmrpark",
+            "certificate_hash": "25fdb134ea62c7e346a0d4bc4d1b6262676c2cf8"
+          }
+        },
+        {
+          "client_id": "484586384300-tq8q299gtj5a7e1ldem90qhlggbhclob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbaAA16u4EFRfJdnX8BpUUmfDiTKNChWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484586384300-tq8q299gtj5a7e1ldem90qhlggbhclob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484586384300:android:99e75a0f2c8b48da",
+        "android_client_info": {
+          "package_name": "com.greatmrpark.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484586384300-tq8q299gtj5a7e1ldem90qhlggbhclob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbaAA16u4EFRfJdnX8BpUUmfDiTKNChWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484586384300:android:5cd0a6182a298e21",
+        "android_client_info": {
+          "package_name": "com.greatmrpark.gmpstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484586384300-tq8q299gtj5a7e1ldem90qhlggbhclob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbaAA16u4EFRfJdnX8BpUUmfDiTKNChWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484586384300:android:1f5ce508a48a7a14",
+        "android_client_info": {
+          "package_name": "com.greatmrpark.oto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484586384300-putsfi0ro1d25hb5jra5qiu0e5n6ojk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greatmrpark.oto",
+            "certificate_hash": "25fdb134ea62c7e346a0d4bc4d1b6262676c2cf8"
+          }
+        },
+        {
+          "client_id": "484586384300-tq8q299gtj5a7e1ldem90qhlggbhclob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbaAA16u4EFRfJdnX8BpUUmfDiTKNChWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484586384300-tq8q299gtj5a7e1ldem90qhlggbhclob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
